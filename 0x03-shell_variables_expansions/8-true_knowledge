@@ -1,3 +1,2 @@
 #!/bin/bash
-num=$(($1 + 128))
-echo $num
+echo $(($1 + 128))
